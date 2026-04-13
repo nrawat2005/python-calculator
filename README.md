@@ -21,19 +21,6 @@ Run the calculator:
 python hello.py
 ```
 
-### 2. DTD Parser Notebook
-A Jupyter notebook for parsing and analyzing DTD (Document Type Definition) files using lxml.
-
-#### Features
-- Parse DTD files and extract element names
-- Supports multiple DTD files (muni2.dtd, urteil.dtd, jud_soj.esd.dtd, etc.)
-
-#### Usage
-Open the notebook in Jupyter:
-```bash
-jupyter notebook WKPrime.ipynb
-```
-
 ## Installation
 
 1. Clone the repository:
@@ -50,9 +37,7 @@ pip install -r requirements.txt
 ## Requirements
 - Python 3.x
 - Tkinter (usually included with Python)
-- lxml
-- pandas
-- openai
+
 
 ## Contributing
 Feel free to contribute by submitting issues or pull requests.
